@@ -1,0 +1,5 @@
+module TP1{
+interface helloWorld {
+string sayHelloWorld();
+};
+};
